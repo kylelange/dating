@@ -3,6 +3,7 @@
 
 
 // User Interface Logic
+
 $(document).ready(function () {
   $("form").submit(function(event) {
     var tax = $("#tax").val();
