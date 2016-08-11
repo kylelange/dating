@@ -1,0 +1,15 @@
+/*Universal Selectors****************/
+
+
+
+/*Class Selectors********************/
+
+
+
+/*Id Selectors***********************/
+#messi, #ronaldo {
+  display: none;
+}
+
+
+/*Media Queries**********************/
